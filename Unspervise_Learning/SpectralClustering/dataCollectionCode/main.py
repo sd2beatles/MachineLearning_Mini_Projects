@@ -1,3 +1,15 @@
+from spotify import Spotify
+import requests
+import json
+import os
+import json
+import base64
+import pandas as pd
+import ast
+import numpy as np
+
+
+
 def saveFile(records,mode):
     assert mode in ['json','parqeut']
     if mode=="json": 
@@ -7,9 +19,6 @@ def saveFile(records,mode):
     elif mode=="parquet":
         tracks=pd.DataFrame(records)
         tracks.to_parquet('audio_features.parquet',engine='pyarrow',compression='snappy')
-
-
-
 
 
 def getArtists():
