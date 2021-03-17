@@ -6,7 +6,7 @@ import base64
 import pandas as pd
 import ast
 import numpy as np
-import 
+from access_token import *
 
 class Spotify(object):
     def __init__(self,record,header,country):
