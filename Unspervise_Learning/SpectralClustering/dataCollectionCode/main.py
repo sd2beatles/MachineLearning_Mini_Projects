@@ -1,3 +1,16 @@
+def saveFile(records,mode):
+    assert mode in ['json','parqeut']
+    if mode=="json": 
+        with open('audio_features_kor.json','w') as f:
+            json.dump(records,f)
+        
+    elif mode=="parquet":
+        tracks=pd.DataFrame(records)
+        tracks.to_parquet('audio_features.parquet',engine='pyarrow',compression='snappy')
+
+
+
+
 
 def getArtists():
     #collect artists from the outside source
