@@ -1,6 +1,8 @@
-:mortar_board:  
+:mortar_board: 
 
-# Machine_Learning Projects From External and Internal Activities & Interview Preparations (머신러닝 내부/외부 과제 및 인터뷰 내용)
+# 머신러닝 내부/외부 과제 및 인터뷰 내용 <한국어 버전>
+
+
 
 
 
