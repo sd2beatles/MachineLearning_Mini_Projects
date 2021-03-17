@@ -12,7 +12,7 @@
 
 
 
-## _Part 2. Spectral Clustering_ (https://github.com/sd2beatles/Machine_Learning_Projects/tree/main/Unspervise_Learning/SpectralClustering)
+### _Part 2. Spectral Clustering_ (https://github.com/sd2beatles/Machine_Learning_Projects/tree/main/Unspervise_Learning/SpectralClustering)
 
 
 #### Epilogue
