@@ -1,4 +1,4 @@
-:mortar_board: # Machine_Learning Projects From External and Internal Activities & Interview Preparations 
+:mortar_board: # Machine_Learning Projects From External and Internal Activities & Interview Preparations (머신러닝 내부/외부 과제 및 인터뷰 내용)
 
 
 
@@ -24,5 +24,5 @@
   
   :point_right: 세번째
   
-  기간이 4일동안, 데이터 수집 -> 정제 -> 분석을 하기에는 턱없는 시간이였다. 시간이 충분했다면, 빅데이터 수업에서 받았던 hive를 사용하고 싶었는데
+  기간이 4일동안, 데이터 수집 -> 정제 -> 분석을 하기에는 턱없는 시간이였다. 시간이 충분했다면, 빅데이터 수업에서 배웠던 hive를 사용하고 싶었는데
   아쉽다는 생각이 지금까지도 든다. 
