@@ -8,9 +8,9 @@
 
 ## PART 1 Unsupervised Learning <비지도 학습>
 
-### 1. K-means/K-medoids 
+### 1. K-means/K-medoids (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)
 
-
+<KOR> ISYE 6740 에서 배웠던 내용을 K-Mean로 구현한 것. 내용자체가 그리 어렵지 않아서 쉽게 과제를 제출했었음. 
 
 ### _Part 2. Spectral Clustering_ (https://github.com/sd2beatles/Machine_Learning_Projects/tree/main/Unspervise_Learning/SpectralClustering)
 
