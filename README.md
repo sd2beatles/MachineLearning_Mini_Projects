@@ -6,7 +6,7 @@
 
 
 
-### PART 1 Clustering <>
+### PART 1 Clustering 
 
 #### _Part 1.K-means/K-medoids (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
 
