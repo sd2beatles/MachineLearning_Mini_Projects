@@ -6,7 +6,7 @@
 
 
 
-### PART 1 Unsupervised Learning <비지도 학습>
+### PART 1 Clustering <비지도 학습>
 
 #### _Part 1.K-means/K-medoids (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
 
