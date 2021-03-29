@@ -38,4 +38,5 @@
 
 ### PART 2 Dimension Reduction 
 
-#### PCA (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
+#### PCA https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Dimesion_Reduction
+
