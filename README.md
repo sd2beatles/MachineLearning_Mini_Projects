@@ -33,3 +33,9 @@
   :point_right: 세번째
   
   기간이 4일동안, 데이터 수집 -> 정제 -> 머신러닝 구현->분석을 하기에는 턱없는 시간이였다. 시간이 충분했다면, 빅데이터 수업에서 배웠던 hive를 사용하고 싶었는데아쉽다는 생각이 지금까지도 든다. 시간에 쫒겨, 시간의 모든 부분을 수집->정제에 들었으므로 분석이 다소 미약하다는 점은 어쩔 수가 없다는 것이 눈에 띈다.
+  
+  
+
+### PART 2 Dimension Reduction 
+
+#### PCA (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
