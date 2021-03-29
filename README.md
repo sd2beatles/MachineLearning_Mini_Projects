@@ -38,5 +38,7 @@
 
 ### PART 2 Dimension Reduction 
 
-#### PCA https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Dimesion_Reduction
+#### PCA (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Dimesion_Reduction)
+
+
 
