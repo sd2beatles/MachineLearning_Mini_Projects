@@ -40,5 +40,10 @@
 
 #### PCA (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Dimesion_Reduction)
 
+머신러닝 과목 중에서 처음으로 배웠던, 차원축소 방법을 자신의 코드로 구현해야하는 과제였다. 두 개의 차원으로 축소시킨 뒤에, 군집화를 실행시켰으나 
+의미없는 결과를 도출하게 됨. silhouette score도 작았으며, 육안상으로도 군집화의 의미가 없었다. 추후에 안것이지만, 군집화를 실행시키지 않는 것이 
+더 좋은 점수를 얻을 수 있었다. 상당히 쉬운 과제였고, LDA VS PCA 사용법에 관한 책을 읽은 적이 있었는데, 그 부분에 대해서 더 공부할 필요가 있다고 판단했음.
+
+
 
 
