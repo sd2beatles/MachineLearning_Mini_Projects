@@ -44,6 +44,10 @@
 의미없는 결과를 도출하게 됨. silhouette score도 작았으며, 육안상으로도 군집화의 의미가 없었다. 추 후에 안것이지만, 군집화를 실행시키지 않는 것이 
 더 좋은 점수를 얻을 수 있었다. 상당히 쉬운 과제였고, LDA VS PCA 사용법에 관한 책을 읽은 적이 있었는데, 그 부분에 대해서 더 공부할 필요가 있다고 판단했음.
 
+#### ISOMAP (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Dimesion_Reduction)
+
+![image](https://user-images.githubusercontent.com/53164959/113539120-f4c69000-9617-11eb-8aa7-9d4e90dbce79.png)
+
 
 
 
