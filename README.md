@@ -46,6 +46,9 @@
 
 #### ISOMAP (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Dimesion_Reduction)
 
+일단 개념자체를 이해하는데, 시간이 너무 오래걸렸다. 사실 100% 이해를 하지 못한 상태에서,과제 제출기간은 다가오고 부랴부랴 구글에서 검색해서
+자료를 올렸다. 일단, network의 알고리즘 floyd라던지 dijkextra라는 생소한 알고리즘은 구현하지 못한채, sklearn에  의존해서 제출을 했음. 일단 감점은 없었으나, 내 자신이  직접 구현하지 못한것에 대해선 반성하고 다음에 시간있을 때,제대로 구현해 볼 예정임. 
+
 ![image](https://user-images.githubusercontent.com/53164959/113539120-f4c69000-9617-11eb-8aa7-9d4e90dbce79.png)
 
 
