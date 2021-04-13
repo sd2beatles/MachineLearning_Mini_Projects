@@ -6,7 +6,7 @@
 
 
 
-### PART 1 Clustering 
+### PART 1 Clustering (scores 48/50)
 
 #### _Part 1.K-means/K-medoids (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
 
@@ -39,7 +39,7 @@
   
   
 
-### PART 2 Dimension Reduction 
+### PART 2 Dimension Reduction (scores 50/50)
 
 #### PCA (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Dimesion_Reduction)
 
