@@ -11,6 +11,9 @@
 #### _Part 1.K-means/K-medoids (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
 
 <KOR> ISYE 6740 에서 배웠던 내용을 K-Mean로 구현한 것. 내용자체가 그리 어렵지 않아서 쉽게 과제를 제출했었음. 
+  ![image](https://user-images.githubusercontent.com/53164959/114559210-736d9e00-9ca6-11eb-9226-280b086293bd.png)
+
+  
 
 #### _Part 2. Spectral Clustering_ (https://github.com/sd2beatles/Machine_Learning_Projects/tree/main/Unspervise_Learning/SpectralClustering)
 
