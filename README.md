@@ -55,7 +55,7 @@
 ![image](https://user-images.githubusercontent.com/53164959/113539120-f4c69000-9617-11eb-8aa7-9d4e90dbce79.png)
 
 
-### PART 3 Regression (49/50)
+### PART 3 Regression (49/50) [https://github.com/sd2beatles/MachineLearning_Mini_Projects/tree/main/Regression]
 
 총 두 가지 project로 진행되었으며,과제기간이 너무 짧아서(4일) 제대로 교정도 못하고 허겁지겁 했던 기억이 있다.
 covid-19 때문에 mid-term을 학교에서 볼 수가 없어서, 많은 과목들이 과제로 대신 제출했어야 했던 것인데 그 양이 너무 방대했다.기간은 단 일주일이고,data 역시 잘 정제된 것이 였기 때문에 기한내에 제출할 수 있었다. 사소한 실수로 인해서 1점 감점이 되었다. 
