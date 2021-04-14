@@ -55,7 +55,10 @@
 ![image](https://user-images.githubusercontent.com/53164959/113539120-f4c69000-9617-11eb-8aa7-9d4e90dbce79.png)
 
 
-### PART 3 Regression 
+### PART 3 Regression (49/50)
+
+총 두 가지 
+
 
 
 
