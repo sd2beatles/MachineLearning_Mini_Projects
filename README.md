@@ -24,16 +24,16 @@ covid-19 때문에 mid-term을 학교에서 볼 수가 없어서, 많은 과목�
 
 
 
-### PART 1 Clustering (scores 48/50)
+### PART 2 Clustering (scores 48/50)
 
-#### _Part 1.K-means/K-medoids (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
+####  1.K-means/K-medoids (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
 
 <KOR> ISYE 6740 에서 배웠던 내용을 K-Mean로 구현한 것. 내용자체가 그리 어렵지 않아서 쉽게 과제를 제출했었음. 
   ![image](https://user-images.githubusercontent.com/53164959/114559210-736d9e00-9ca6-11eb-9226-280b086293bd.png)
 
   
 
-#### _Part 2. Spectral Clustering_ (https://github.com/sd2beatles/Machine_Learning_Projects/tree/main/Unspervise_Learning/SpectralClustering)
+#### 2. Spectral Clustering_ (https://github.com/sd2beatles/Machine_Learning_Projects/tree/main/Unspervise_Learning/SpectralClustering)
 
 
 #### Epilogue
@@ -57,7 +57,7 @@ covid-19 때문에 mid-term을 학교에서 볼 수가 없어서, 많은 과목�
   
   
 
-### PART 2 Dimension Reduction (scores 50/50)
+### PART 3 Dimension Reduction (scores 50/50)
 
 #### PCA (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Dimesion_Reduction)
 
@@ -75,17 +75,6 @@ covid-19 때문에 mid-term을 학교에서 볼 수가 없어서, 많은 과목�
 
 ![image](https://user-images.githubusercontent.com/53164959/113539120-f4c69000-9617-11eb-8aa7-9d4e90dbce79.png)
 
-
-### PART 3 Regression (49/50) [https://github.com/sd2beatles/MachineLearning_Mini_Projects/tree/main/Regression]
-
-총 두 가지 project로 진행되었으며,과제기간이 너무 짧아서(4일) 제대로 교정도 못하고 허겁지겁 했던 기억이 있다.
-covid-19 때문에 mid-term을 학교에서 볼 수가 없어서, 많은 과목들이 과제로 대신 제출했어야 했던 것인데 그 양이 너무 방대했다.기간은 단 일주일이고,data 역시 잘 정제된 것이 였기 때문에 기한내에 제출할 수 있었다. 사소한 실수로 인해서 1점 감점이 되었다. 
-
-- 첫번째 과제는 이론적인 것이 대부분이였으며, cvpx 최적화 프로그래밍을 돌려서 구하는 간단한 문제여서 그렇게 어렵지 않았다.
-- 두번째 과제는 실질적인 data를 이용해서, 분석하는 것이였다. 이미 회귀분석은 학부때 들었던 덕에,그렇게 어렵지 않았으며 단지 시간이 좀 더 있으었면 하는 바램이였다.같이 공부하는 동기들은
-  꽤나 어려웠다고 하는 것을 보고, 컴터공학을 배경을 지닌 아이들이 힘들어할 수도 있구나 하고 세삼스럽게 놀랐음.
-
- ![image](https://user-images.githubusercontent.com/53164959/114645278-1a3c5380-9d14-11eb-9410-639f8c4569ac.png)
 
 
 
