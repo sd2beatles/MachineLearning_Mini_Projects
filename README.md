@@ -12,7 +12,7 @@ covid-19 때문에 mid-term을 학교에서 볼 수가 없어서, 많은 과목�
 
 - 두번째 과제는 실질적인 data를 이용해서, 분석하는 것이였다. 이미 회귀분석은 학부때 들었던 덕에,그렇게 어렵지 않았으며 단지 시간이 좀 더 있으었면 하는 바램이였다.같이 공부하는 동기들은 꽤나 어려웠다고 하는 것을 보고, 컴터공학을 배경을 지닌 아이들이 힘들어할 수도 있구나 하고 세삼스럽게 놀랐음. 교수님께서 작성하신 instruction 중, ridge 와 lasso 만 사용하라고 하셨는데, 그 이유를 project를 진행하면서 알 수 있었다. Hint로 clustering을 진행하라고 하셨는데, clustering이 두 개 이상으로 나뉘었고 silhouette score도 상당히 높았다.즉, 각 그룹의 특성들을 이용하여 그에 맞는 회귀를 써야 rmse가 낮게 나올 수 있는거 아닌가 생각을 했으며,이를 토대로 report를 작성했고,좋은 comment를 얻을 수 있었다. 이러한 경우에는 회귀나무(regression tree)를 이용하면 rmse가 상당히 낮아질거라 생각한다. 
 
-- 동기 중에 data engineer에 종사햇던 친구가 apache airflow를 사용할것을 조언하여, document를 보면서 따라해봤다. parallelism, concurrency의 용어가 참 낮설었지만, 동시다발성으로 진행되다 보니, 머신러닝 처리시간이 눈에 띄게 낮아지는 것을 알게 되었음. 앞으로 자주 사용할 예정임. 
+- 동기 중에 data engineer에 종사햇던 친구가 apache airflow를 사용할것을 조언하여, document를 보면서 따라해봤다. parallelism, concurrency의 용어가 참 낮설었지만, 동시다발성으로 진행되는 특징이 흥미로웠다.  머신러닝 처리시간이 눈에 띄게 낮아지는 것을 알게 되었고,앞으로 자주 사용할 예정이다. 
 
 
 <project 1>
