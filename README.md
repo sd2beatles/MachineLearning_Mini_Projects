@@ -14,7 +14,8 @@ covid-19 때문에 mid-term을 학교에서 볼 수가 없어서, 많은 과목�
 
  ![image](https://user-images.githubusercontent.com/53164959/114645278-1a3c5380-9d14-11eb-9410-639f8c4569ac.png)
 
-![image](https://user-images.githubusercontent.com/53164959/115256766-7c5ce480-a16a-11eb-840a-2d779e9f3ca0.png)
+![image](https://user-images.githubusercontent.com/53164959/115257116-c34ada00-a16a-11eb-9e03-a855fb38236e.png)
+
 
 
 ### PART 1 Clustering (scores 48/50)
