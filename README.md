@@ -31,9 +31,10 @@ covid-19 때문에 mid-term을 학교에서 볼 수가 없어서, 많은 과목�
 
 ### PART 2 Clustering (scores 48/50)
 
-####  1.K-means/K-medoids (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
+####  1.K-means/Spectral Clustering (https://github.com/sd2beatles/MachineLearningProjectI-Interview-Preparation/tree/main/Unspervise_Learning/K-menas%2CK-medoids)_
 
-<KOR> ISYE 6740 에서 배웠던 내용을 K-Mean로 구현한 것. 내용자체가 그리 어렵지 않아서 쉽게 과제를 제출했었음. 
+<KOR> ISYE 6740 에서 배웠던 내용을 K-Mean 과 Spectral Clustering을 구현한것. 상당한 시간을 요구하는 과제였음. 
+ 
   ![image](https://user-images.githubusercontent.com/53164959/114559210-736d9e00-9ca6-11eb-9226-280b086293bd.png)
 
   
