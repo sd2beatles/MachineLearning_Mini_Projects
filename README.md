@@ -1,6 +1,11 @@
 
 
-# 머신러닝 내부/외부 과제 및 인터뷰 내용 <한국어>
+# Machine Learning Project(ISYE 6740)
+
+
+
+
+
 
 
 ### PART 1 Regression (49/50) [https://github.com/sd2beatles/MachineLearning_Mini_Projects/tree/main/Regression]
