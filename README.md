@@ -1,6 +1,6 @@
 
 
-# Machine Learning Project(ISYE 6740)
+# Machine Learning Project
 
 
 
