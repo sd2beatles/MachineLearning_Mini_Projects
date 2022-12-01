@@ -70,6 +70,13 @@ Compared to the single tree, random forests take much longer to construct trees 
 #7. What do you mean by Bootstrap Sample?
 
 
-# 6.rove that in the Bagging method only about 63% of the total original examples (total training set) appear in any of sampled bootstrap datasets. Provide proper justification.
+Bootstrap sampling is used in a machine learning ensemble algorithm called bootstrap aggregating (also called bagging). It helps in avoiding overfitting and improves the stability of machine learning algorithms.
+
+In bagging, a certain number of equally sized subsets of a dataset are extracted with replacement. Then, a machine learning algorithm is applied to each of these subsets and the outputs are ensembled
+
+
+# 6.prove that in the Bagging method only about 63% of the total original examples (total training set) appear in any of sampled bootstrap datasets. Provide proper justification.
+
+Regardless of sampling with or without replacement, some parts of the original datasets are not selected in the training procedures. These 'unseen' data will be collected in a group and now referred to as out of the bag. The probability of not being chosen is approximately 1 over exponential which is almost 0.36.
 
 
