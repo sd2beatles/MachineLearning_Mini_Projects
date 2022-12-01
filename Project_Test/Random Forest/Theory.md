@@ -44,6 +44,32 @@ We move to select the k features from the total number of features. Not all feat
 
 
 
+Errors can be decomposed into two different parts; bias and variance. 
+
+
+
+The total predict
+1)Bias is often thought of as the number of assumptions your model makes against the problems you trying to frame. That is, the more assumptions you have, the higher bias is going to be on your model. 
+
+The typical example with higher bias is linear regression and users must ensure that all the assumptions must be met, otherwise the predictive power would not be so much as impressive as she or he thought it would be. Mostly, linear regression suffers from higher bias.
+
+
+2) Variance refers to the sensitivity of our model to the training dataset. 
+
+Variance measures how much the output would change if we change the training dataset with the same problem objective. 
+If the case is higher variance, the output of the model will change dramatically whenever we change our training dataset, which leads to an overfitting problem. (Higher variance = overfitting).  Generally speaking, models with higher flexibility tend to have higher variance like decision trees. If you do not impose any restriction, the tree model will split the node into daughter nodes, eventually, branch up to fit every single data point in the extreme case. The model will perform pretty well on the training dataset but fails to give the same performance as we have seen on the training. 
+
+In evaluating bias and variance, we always think of the trade-off between bias and variance. If we relax the assumptions of our model, then we expect lower bias but higher variance as mentioned, and vice versa. This trade-off encourages us to find the most optimal point based on the number of experiments. 
+
+
+# 6. Why do we prefer a Forest (collection of Trees) rather than a single Tree?
+
+Compared to the single tree, random forests take much longer to construct trees and obtain outcomes since they involve many trees in the group. Also, in terms of interpreting the results and identifying the types of features that contribute most to the prediction power, the single decision tree is superior over random forests. Despite its all merits, single decision trees will suffer from overfitting problems. (i.e., how dramatically output models change if we change the training data.) The decision trees have more possibility of overfitting while random forest limits its exposure to it. 
+
+
+#7. What do you mean by Bootstrap Sample?
+
+
 # 6.rove that in the Bagging method only about 63% of the total original examples (total training set) appear in any of sampled bootstrap datasets. Provide proper justification.
 
-Why do we prefer a Forest (collection of Trees) rather than a single Tree?
+
